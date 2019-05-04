@@ -31,8 +31,8 @@ while True:
         elif my_number < random_number:
             print("You guessed to low")
     else:
-        print("You reached the required number of guesses which is 7\n")
-        print("Sorry you failed the test")
+        print("You reached the required number of guesses which is 8\n")
+        print("Sorry you failed the tesT")
         break
         
 
