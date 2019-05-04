@@ -21,7 +21,7 @@ while True:
     
     count += 1
     
-    if count <= 7:
+    if count <= 8:
         if my_number == random_number:
             print("\nYou guessed right, Congrat!!!\n")
             print("It took you " + str(count) + " guesses to get the answer\n")
